@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mascotapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/mascotapp/static/js/main.e381b2e0.chunk.js",
+    "main.js.map": "/mascotapp/static/js/main.e381b2e0.chunk.js.map",
+    "runtime-main.js": "/mascotapp/static/js/runtime-main.6417abbf.js",
+    "runtime-main.js.map": "/mascotapp/static/js/runtime-main.6417abbf.js.map",
+    "static/js/2.c22f6b73.chunk.js": "/mascotapp/static/js/2.c22f6b73.chunk.js",
+    "static/js/2.c22f6b73.chunk.js.map": "/mascotapp/static/js/2.c22f6b73.chunk.js.map",
+    "static/js/3.df883f36.chunk.js": "/mascotapp/static/js/3.df883f36.chunk.js",
+    "static/js/3.df883f36.chunk.js.map": "/mascotapp/static/js/3.df883f36.chunk.js.map",
+    "index.html": "/mascotapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/mascotapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c22f6b73.chunk.js.LICENSE.txt": "/mascotapp/static/js/2.c22f6b73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6417abbf.js",
+    "static/js/2.c22f6b73.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e381b2e0.chunk.js"
+  ]
+}
